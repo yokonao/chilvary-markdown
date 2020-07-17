@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '肺真菌症'
 date: 'Jul 17, 2020'
 author: 'nao yokotsuka'
 description: ''
