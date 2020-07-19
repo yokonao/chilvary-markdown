@@ -57,7 +57,7 @@ description: ''
 
 ## 鼠径ヘルニア
 
-図が全て
+図が全て、しっかりみておこう
 
 <img src="http://d280wcvpuqrtqr.cloudfront.net/20200709_110920.png" alt="鼠径部のヘルニア" style="zoom:70%;" />
 
