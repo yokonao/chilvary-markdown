@@ -47,6 +47,6 @@ A型肝炎は肝炎ウィルスの中でも早期に**急性腎不全**を合併
 
 EBVには3つの抗体が知られている。
 
-1. **Virus Capsid Antigen**
-2. Early Antigen
-3. EBV Nuclear Antigen
+1. **Virus Capsid Antigen** => VCA
+2. Early Antigen => EA
+3. EBV Nuclear Antigen => EBNA
