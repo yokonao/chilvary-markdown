@@ -51,8 +51,14 @@ description: ''
 - 無ガンマグロブリン血症
 - Wiskott-Aldrich症候群
 - 毛細血管拡張性失調症
+  - B細胞
 - DiGeorge症候群
+  - T細胞
 - 慢性肉芽腫症
+  - 好中球、殺菌能
+  - 顆粒がわるい、NBT
+- Chediak-Higashi症候群
+  - 形態異常
 
 ## 血痰
 
